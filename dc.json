@@ -1,64 +1,64 @@
 {
-  "storeHouse": [
+  "urls": [
     {
-      "sourceName": "饭太硬",
-      "sourceUrl": "http://www.饭太硬.top/tv/"
+      "url": "饭太硬",
+      "name": "http://www.饭太硬.top/tv/"
     },
     {
-      "sourceName": "小米 小暴脾气",
-      "sourceUrl": "http://xhww.fun/小米/DEMO.json"
+      "url": "小米 小暴脾气",
+      "name": "http://xhww.fun/小米/DEMO.json"
     },
     {
-      "sourceName": "FongMI",
-      "sourceUrl": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
+      "url": "FongMI",
+      "name": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
     },
     {
-      "sourceName": "纯一骚零",
-      "sourceUrl": "https://100km.top/0"
+      "url": "纯一骚零",
+      "name": "https://100km.top/0"
     },
     {
-      "sourceName": "OK屌炸天(影视)",
-      "sourceUrl": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"
+      "url": "OK屌炸天(影视)",
+      "name": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"
     },
     {
-      "sourceName": "巧技",
-      "sourceUrl": "http://cdn.qiaoji8.com/tvbox.json"
+      "url": "巧技",
+      "name": "http://cdn.qiaoji8.com/tvbox.json"
     },
     {
-      "sourceName": "霜辉月明 py",
-      "sourceUrl": "https://api-lmteam.koyeb.app/files/py.json"
+      "url": "霜辉月明 py",
+      "name": "https://api-lmteam.koyeb.app/files/py.json"
     },
     {
-      "sourceName": "菜妮丝 XBPQ",
-      "sourceUrl": "https://tvbox.cainisi.cf"
+      "url": "菜妮丝 XBPQ",
+      "name": "https://tvbox.cainisi.cf"
     },
     {
-      "sourceName": "PG one",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
+      "url": "PG one",
+      "name": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
     },
     {
-      "sourceName": "高天流云",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+      "url": "高天流云",
+      "name": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
     },
     {
-      "sourceName": "香雅情 XYQ",
-      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+      "url": "香雅情 XYQ",
+      "name": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
     },
     {
-      "sourceName": "肥猫",
-      "sourceUrl": "http://肥猫.live"
+      "url": "肥猫",
+      "name": "http://肥猫.live"
     },
     {
-      "sourceName": "南风",
-      "sourceUrl": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+      "url": "南风",
+      "name": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
     },
     {
-      "sourceName": "小白",
-      "sourceUrl": "http://bp.tvbox.cam/"
+      "url": "小白",
+      "name": "http://bp.tvbox.cam/"
     },
     {
-      "sourceName": "讴歌",
-      "sourceUrl": "http://tv.nxog.top/m/"
+      "url": "讴歌",
+      "name": "http://tv.nxog.top/m/"
     }
   ]
 }
